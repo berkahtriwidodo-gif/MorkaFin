@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --mor-green: #15803D;
+    --mor-green-dark: #14532D;
+    --mor-green-light: #F0FDF4;
+    --mor-forest: #133E2B;
+    --mor-amber: #D97706;
+    --mor-amber-hover: #B45309;
+    --mor-amber-light: #FEF3C7;
+  }
+}

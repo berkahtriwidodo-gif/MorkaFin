@@ -1,0 +1,7 @@
+{
+  "name": "Template Tabungan Pintar - Google Sheets & Excel",
+  "description": "Template dan aplikasi tabel pencatatan tabungan transparan, otomatis, dan rapi untuk Google Sheets & Excel dengan dashboard interaktif, target, rekap bulanan, dan ekspor instan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
